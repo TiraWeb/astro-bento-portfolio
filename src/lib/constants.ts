@@ -1,10 +1,10 @@
 export const LINKS = {
-  github: "https://github.com/Ladvace",
-  linkedin: "https://www.linkedin.com/in/gianmarco-cavallo/",
+  github: "https://github.com/Ltiraweb",
+  linkedin: "https://www.linkedin.com/in/tiran-pankaja-578b24283/",
   medium: "https://ladvace.medium.com/",
-  discord: "https://discordapp.com/users/163300027618295808",
+  discord: "",
   dribble: "https://dribbble.com/Ladvace_Jace",
-  email: "contact@gianmarcocavallo.com<",
+  email: "tiranpankaja@gmail.com",
 };
 
 export const loaderAnimation = [

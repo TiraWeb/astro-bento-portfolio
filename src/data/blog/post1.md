@@ -1,6 +1,6 @@
 ---
-title: "Hello, World"
-description: "this is a post example"
+title: "Hello, Fellow Miners"
+description: "this is a post about the miners!"
 pubDate: 2023-01-21
 category: "intro"
 draft: false

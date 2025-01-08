@@ -6,8 +6,8 @@ const GlobeComponent = () => {
   let mapContainer: HTMLDivElement | undefined;
 
   const visitedCountries = [
-    "France",
-    "China",
+    "Spain",
+    "Thailand",
     "Italy",
     "Sri Lanka",
     "Turkey",
