@@ -1,9 +1,9 @@
 export const LINKS = {
-  github: "https://github.com/Ltiraweb",
+  github: "https://github.com/tiraweb",
   linkedin: "https://www.linkedin.com/in/tiran-pankaja-578b24283/",
-  medium: "https://ladvace.medium.com/",
+  medium: "https://medium.com/@tiranpankaja",
   discord: "",
-  dribble: "https://dribbble.com/Ladvace_Jace",
+  dribble: "https://medium.com/@tiranpankaja",
   email: "tiranpankaja@gmail.com",
 };
 
